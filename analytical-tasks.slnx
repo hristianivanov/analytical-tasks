@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GuessNumberHigherOrLower/GuessNumberHigherOrLower.csproj" />
+  <Project Path="LinkedListIntersection/LinkedListIntersection.csproj" />
+  <Project Path="MaximumSubarraySum/MaximumSubarraySum.csproj" />
+  <Project Path="PoisonedVialIdentification/PoisonedVialIdentification.csproj" />
+</Solution>

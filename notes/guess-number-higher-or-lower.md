@@ -9,6 +9,10 @@ if `x == num`, and tells you whether to go higher or lower otherwise. Find
 Binary search: each guess halves the remaining range, so the worst case is
 `O(log n)` guesses instead of `O(n)` for a linear scan.
 
+## Original notes
+
+![Handwritten notes for guess number higher or lower](images/guess-number-higher-or-lower.png)
+
 ## Edge cases
 
 - Is the range guaranteed to be sorted? Yes — it's a plain numeric range.

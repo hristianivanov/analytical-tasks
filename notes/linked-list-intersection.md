@@ -12,6 +12,10 @@ it to the *other* list's head. Both pointers then travel `len(A) + len(B)`
 nodes total before either meeting at the first common node or hitting
 `null` together (no intersection) — the length difference cancels out.
 
+## Original notes
+
+![Handwritten notes for merging linked lists](images/linked-list-intersection.png)
+
 ## Edge cases
 
 - Lists aren't the same length

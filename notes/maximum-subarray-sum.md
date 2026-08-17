@@ -11,6 +11,10 @@ greedily extend the running sum, and reset it to the current element
 whenever it would drop below that element (i.e. whenever carrying the
 previous sum forward would only hurt). This is Kadane's algorithm.
 
+## Original notes
+
+![Handwritten notes for maximum subarray sum](images/maximum-subarray-sum.png)
+
 ## Complexity
 
 Time: O(n), Space: O(1)

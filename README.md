@@ -34,6 +34,7 @@ analytical-tasks/
 |-- notewise/
 |   `-- аналитични задачки_8841604547090403343.pdf   (original handwritten notes)
 |-- notes/
+|   |-- images/                                      (rendered pages of the notes above, embedded in the write-ups)
 |   |-- poisoned-vial-identification.md
 |   |-- linked-list-intersection.md
 |   |-- guess-number-higher-or-lower.md
@@ -60,6 +61,40 @@ analytical-tasks/
 | Find where two singly linked lists merge | Two pointers | O(n + m) time, O(1) space | [notes](notes/linked-list-intersection.md) | [`LinkedListIntersection`](LinkedListIntersection) |
 | Guess a number 1–1000 via a higher/lower oracle | Binary search | O(log n) | [notes](notes/guess-number-higher-or-lower.md) | [`GuessNumberHigherOrLower`](GuessNumberHigherOrLower) |
 | Maximum sum contiguous subarray | Kadane's algorithm | O(n) time, O(1) space | [notes](notes/maximum-subarray-sum.md) | [`MaximumSubarraySum`](MaximumSubarraySum) |
+
+## Handwritten Source Notes
+
+Each solution started life as a handwritten page, scanned from
+[`notewise/`](notewise). Click a thumbnail to open the matching write-up.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="notes/poisoned-vial-identification.md">
+        <img src="notes/images/poisoned-vial-identification.png" width="200" alt="Poisoned vial identification handwritten notes" />
+      </a>
+      <br />Poisoned Vial Identification
+    </td>
+    <td align="center" width="25%">
+      <a href="notes/linked-list-intersection.md">
+        <img src="notes/images/linked-list-intersection.png" width="200" alt="Linked list intersection handwritten notes" />
+      </a>
+      <br />Linked List Intersection
+    </td>
+    <td align="center" width="25%">
+      <a href="notes/guess-number-higher-or-lower.md">
+        <img src="notes/images/guess-number-higher-or-lower.png" width="200" alt="Guess number higher or lower handwritten notes" />
+      </a>
+      <br />Guess Number Higher or Lower
+    </td>
+    <td align="center" width="25%">
+      <a href="notes/maximum-subarray-sum.md">
+        <img src="notes/images/maximum-subarray-sum.png" width="200" alt="Maximum subarray sum handwritten notes" />
+      </a>
+      <br />Maximum Subarray Sum
+    </td>
+  </tr>
+</table>
 
 ## How To Run Locally
 

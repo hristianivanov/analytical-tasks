@@ -12,6 +12,10 @@ index in binary.
 
 Example from the notes: vial `56` → binary `111000` → animals 3, 4, 5 die.
 
+## Original notes
+
+![Handwritten notes for poisoned vial identification](images/poisoned-vial-identification.png)
+
 ## Complexity
 
 - Time: O(V log V) to assign (V vials, log V animals each)

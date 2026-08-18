@@ -1,5 +1,6 @@
 # Analytical Tasks in C#
 
+
 A small C# practice repository turning handwritten algorithm notes into
 working, interview-ready solutions.
 
